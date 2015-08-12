@@ -45,7 +45,7 @@ There are an infinite amount of questions you can ask yourself about how each so
 is to ask yourself these questions - and come to some conclusions.  And then design a models.py that
 will back a potential "site clone" of the site you choose.
 
-Make sure you use querysets and methods on your class in order to help the relations exist.  The more helpful
+Make sure you use methods, querysets and managers on your class in order to help the relations exist.  The more helpful
 your data "layer" is to your application, the easier your application will be to write.
 
 Come prepared to give a 5 minutes presentation on your structure.  Be prepared to show your python code and explain what you did
