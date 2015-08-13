@@ -32,5 +32,8 @@ class Votes(models.Model):
     up_jams = models.ManyToManyField(Post)
     down_jams = models.ManyToManyField(Post)
 
+    def __str__(self):
+        return self.objects
+
 
 
